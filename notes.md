@@ -17,4 +17,3 @@
   * Category A: must stay within 1.3 miles of airport
 * Aircraft category
   * 1.3 * V<sub>SO</sub>
-*
